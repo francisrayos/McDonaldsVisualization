@@ -1,0 +1,366 @@
+[
+  {
+    "OBJECTID": 1,
+    "NAME": "Texas",
+    "Obesity": 32.4,
+    "Shape__Area": 7672329221282.43,
+    "Shape__Length": 15408321.8693326
+  },
+  {
+    "OBJECTID": 2,
+    "NAME": "California",
+    "Obesity": 24.2,
+    "Shape__Area": 5327809415348.82,
+    "Shape__Length": 14518698.4569941
+  },
+  {
+    "OBJECTID": 3,
+    "NAME": "Kentucky",
+    "Obesity": 34.6,
+    "Shape__Area": 1128830286205.16,
+    "Shape__Length": 6346698.58640708
+  },
+  {
+    "OBJECTID": 4,
+    "NAME": "Georgia",
+    "Obesity": 30.7,
+    "Shape__Area": 1652980281878.16,
+    "Shape__Length": 5795595.91864917
+  },
+  {
+    "OBJECTID": 5,
+    "NAME": "Wisconsin",
+    "Obesity": 30.7,
+    "Shape__Area": 1567816094388.87,
+    "Shape__Length": 6806782.08136301
+  },
+  {
+    "OBJECTID": 6,
+    "NAME": "Oregon",
+    "Obesity": 30.1,
+    "Shape__Area": 3178445626040.27,
+    "Shape__Length": 7976010.94221365
+  },
+  {
+    "OBJECTID": 7,
+    "NAME": "Virginia",
+    "Obesity": 29.2,
+    "Shape__Area": 1158804356889.53,
+    "Shape__Length": 7710803.89951692
+  },
+  {
+    "OBJECTID": 8,
+    "NAME": "Tennessee",
+    "Obesity": 33.8,
+    "Shape__Area": 1177054472613.04,
+    "Shape__Length": 6350376.86054333
+  },
+  {
+    "OBJECTID": 9,
+    "NAME": "Louisiana",
+    "Obesity": 36.2,
+    "Shape__Area": 1355093764681.61,
+    "Shape__Length": 7383856.92000197
+  },
+  {
+    "OBJECTID": 10,
+    "NAME": "New York",
+    "Obesity": 25,
+    "Shape__Area": 1411440550751.67,
+    "Shape__Length": 7981383.07833193
+  },
+  {
+    "OBJECTID": 11,
+    "NAME": "Michigan",
+    "Obesity": 31.2,
+    "Shape__Area": 1657221839369.07,
+    "Shape__Length": 12407988.0255281
+  },
+  {
+    "OBJECTID": 12,
+    "NAME": "Idaho",
+    "Obesity": 28.6,
+    "Shape__Area": 2593598268262.5,
+    "Shape__Length": 9081125.22172213
+  },
+  {
+    "OBJECTID": 13,
+    "NAME": "Florida",
+    "Obesity": 26.8,
+    "Shape__Area": 1674411223014.05,
+    "Shape__Length": 10533929.1449871
+  },
+  {
+    "OBJECTID": 14,
+    "NAME": "Alaska",
+    "Obesity": 29.8,
+    "Shape__Area": 530113882175.211,
+    "Shape__Length": 6663726.59004341
+  },
+  {
+    "OBJECTID": 15,
+    "NAME": "Montana",
+    "Obesity": 23.6,
+    "Shape__Area": 4371466366583.28,
+    "Shape__Length": 9745471.75281783
+  },
+  {
+    "OBJECTID": 16,
+    "NAME": "Minnesota",
+    "Obesity": 26.1,
+    "Shape__Area": 2367874733298.77,
+    "Shape__Length": 8530250.43009455
+  },
+  {
+    "OBJECTID": 17,
+    "NAME": "Nebraska",
+    "Obesity": 31.4,
+    "Shape__Area": 2207444436489.05,
+    "Shape__Length": 6921599.98830379
+  },
+  {
+    "OBJECTID": 18,
+    "NAME": "Washington",
+    "Obesity": 26.4,
+    "Shape__Area": 2214214821521.08,
+    "Shape__Length": 7508966.84072584
+  },
+  {
+    "OBJECTID": 19,
+    "NAME": "Ohio",
+    "Obesity": 29.8,
+    "Shape__Area": 1158015967784.83,
+    "Shape__Length": 5015484.92425697
+  },
+  {
+    "OBJECTID": 20,
+    "NAME": "Illinois",
+    "Obesity": 30.8,
+    "Shape__Area": 1571568299021.75,
+    "Shape__Length": 6172530.808854
+  },
+  {
+    "OBJECTID": 21,
+    "NAME": "Missouri",
+    "Obesity": 32.4,
+    "Shape__Area": 1949020823705.61,
+    "Shape__Length": 7165632.96911909
+  },
+  {
+    "OBJECTID": 22,
+    "NAME": "Iowa",
+    "Obesity": 32.1,
+    "Shape__Area": 1575588858361.24,
+    "Shape__Length": 5558144.62527852
+  },
+  {
+    "OBJECTID": 23,
+    "NAME": "South Dakota",
+    "Obesity": 30.4,
+    "Shape__Area": 2199053487799.14,
+    "Shape__Length": 6680911.24766789
+  },
+  {
+    "OBJECTID": 24,
+    "NAME": "Arkansas",
+    "Obesity": 34.5,
+    "Shape__Area": 1488699273851.56,
+    "Shape__Length": 5707634.00268186
+  },
+  {
+    "OBJECTID": 25,
+    "NAME": "Mississippi",
+    "Obesity": 35.6,
+    "Shape__Area": 1327853198136.73,
+    "Shape__Length": 5834201.76780663
+  },
+  {
+    "OBJECTID": 26,
+    "NAME": "Colorado",
+    "Obesity": 20.2,
+    "Shape__Area": 3066878609025.77,
+    "Shape__Length": 7092296.49765181
+  },
+  {
+    "OBJECTID": 27,
+    "NAME": "North Carolina",
+    "Obesity": 30.1,
+    "Shape__Area": 1495755985997.67,
+    "Shape__Length": 6714056.23681002
+  },
+  {
+    "OBJECTID": 28,
+    "NAME": "Utah",
+    "Obesity": 24.5,
+    "Shape__Area": 2614280967848.27,
+    "Shape__Length": 6798972.50369368
+  },
+  {
+    "OBJECTID": 29,
+    "NAME": "Oklahoma",
+    "Obesity": 33.9,
+    "Shape__Area": 1982448890091.04,
+    "Shape__Length": 7857119.56910824
+  },
+  {
+    "OBJECTID": 30,
+    "NAME": "Wyoming",
+    "Obesity": 29,
+    "Shape__Area": 2897400399096.76,
+    "Shape__Length": 6860971.19037082
+  },
+  {
+    "OBJECTID": 31,
+    "NAME": "West Virginia",
+    "Obesity": 35.6,
+    "Shape__Area": 685167361644.46,
+    "Shape__Length": 5374279.69671274
+  },
+  {
+    "OBJECTID": 32,
+    "NAME": "Indiana",
+    "Obesity": 31.3,
+    "Shape__Area": 1010364222357.43,
+    "Shape__Length": 4858882.2188474
+  },
+  {
+    "OBJECTID": 33,
+    "NAME": "Massachusetts",
+    "Obesity": 24.3,
+    "Shape__Area": 247224998616.445,
+    "Shape__Length": 4197218.18339706
+  },
+  {
+    "OBJECTID": 34,
+    "NAME": "Nevada",
+    "Obesity": 26.7,
+    "Shape__Area": 3564354191149.74,
+    "Shape__Length": 8240794.81052883
+  },
+  {
+    "OBJECTID": 35,
+    "NAME": "Connecticut",
+    "Obesity": 25.3,
+    "Shape__Area": 145421898749.233,
+    "Shape__Length": 1780630.95587218
+  },
+  {
+    "OBJECTID": 36,
+    "NAME": "District of Columbia",
+    "Obesity": 22.1,
+    "Shape__Area": 1972102306.20581,
+    "Shape__Length": 200324.960807365
+  },
+  {
+    "OBJECTID": 37,
+    "NAME": "Rhode Island",
+    "Obesity": 26,
+    "Shape__Area": 36178076494.7559,
+    "Shape__Length": 984524.581504144
+  },
+  {
+    "OBJECTID": 38,
+    "NAME": "Alabama",
+    "Obesity": 35.6,
+    "Shape__Area": 1442806615255.99,
+    "Shape__Length": 5750657.81193695
+  },
+  {
+    "OBJECTID": 39,
+    "NAME": "Puerto Rico",
+    "Obesity": 29.5,
+    "Shape__Area": 114783882866.07,
+    "Shape__Length": 2136273.27154324
+  },
+  {
+    "OBJECTID": 40,
+    "NAME": "South Carolina",
+    "Obesity": 31.7,
+    "Shape__Area": 878270407989.028,
+    "Shape__Length": 4370940.54757697
+  },
+  {
+    "OBJECTID": 41,
+    "NAME": "Maine",
+    "Obesity": 30,
+    "Shape__Area": 990384869167.161,
+    "Shape__Length": 5560035.3654817
+  },
+  {
+    "OBJECTID": 42,
+    "NAME": "Hawaii",
+    "Obesity": 22.7,
+    "Shape__Area": "",
+    "Shape__Length": ""
+  },
+  {
+    "OBJECTID": 43,
+    "NAME": "Arizona",
+    "Obesity": 28.4,
+    "Shape__Area": 3562685913790.96,
+    "Shape__Length": 8044184.23411284
+  },
+  {
+    "OBJECTID": 44,
+    "NAME": "New Mexico",
+    "Obesity": 28.8,
+    "Shape__Area": 3622933199164.54,
+    "Shape__Length": 8075166.55523129
+  },
+  {
+    "OBJECTID": 45,
+    "NAME": "Maryland",
+    "Obesity": 28.9,
+    "Shape__Area": 303943203060.042,
+    "Shape__Length": 5850363.29176001
+  },
+  {
+    "OBJECTID": 46,
+    "NAME": "Delaware",
+    "Obesity": 29.7,
+    "Shape__Area": 59081101610.6035,
+    "Shape__Length": 1383604.11821384
+  },
+  {
+    "OBJECTID": 47,
+    "NAME": "Pennsylvania",
+    "Obesity": 30,
+    "Shape__Area": 1288451936878.89,
+    "Shape__Length": 5024348.11270229
+  },
+  {
+    "OBJECTID": 48,
+    "NAME": "Kansas",
+    "Obesity": 34.2,
+    "Shape__Area": 2340365916403.12,
+    "Shape__Length": 6540498.42012793
+  },
+  {
+    "OBJECTID": 49,
+    "NAME": "Vermont",
+    "Obesity": 25.1,
+    "Shape__Area": 278931330245.147,
+    "Shape__Length": 2653732.23281641
+  },
+  {
+    "OBJECTID": 50,
+    "NAME": "New Jersey",
+    "Obesity": 25.6,
+    "Shape__Area": 224606547505.064,
+    "Shape__Length": 2599119.26117916
+  },
+  {
+    "OBJECTID": 51,
+    "NAME": "North Dakota",
+    "Obesity": 31,
+    "Shape__Area": 2013151767296.55,
+    "Shape__Length": 5872756.35866059
+  },
+  {
+    "OBJECTID": 52,
+    "NAME": "New Hampshire",
+    "Obesity": 26.3,
+    "Shape__Area": 270529403241.122,
+    "Shape__Length": 2674767.14799775
+  }
+]

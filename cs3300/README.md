@@ -1,0 +1,2 @@
+# McDonald's Nutrition Visualization
+This project will explore the nutritional facts of the most popular items on a McDonald's menu. Users will be able to compare their typical meal order with the nutritional standards provided by the CDC.
